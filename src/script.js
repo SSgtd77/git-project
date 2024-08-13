@@ -9,3 +9,7 @@ function goodbye (argument) {
 function thanks(argument) {
     console.log("Thanks the World")
 }
+
+function new_func(argument) {
+    console.log("New Function")
+}
