@@ -12,4 +12,5 @@ function thanks(argument) {
 
 function new_func(argument) {
     console.log("New Function")
+    console.log("New Close")
 }
